@@ -1,0 +1,6 @@
+{
+  "watch": ["calculateJumpOnPlanets.js", "gravityFactors.js", "startRepl.js"],
+  "ext": "js,json",
+  "ignore": ["*.test.js", "node_modules/*"],
+  "stdin": false
+}
